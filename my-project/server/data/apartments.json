@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1791794108608,
+    "userId": 1791589866095,
+    "name": "Моя квартира",
+    "rooms": 1,
+    "area": 100,
+    "style": "Современный",
+    "furniture": [
+      {
+        "furnitureId": 1,
+        "title": "Диван Modern",
+        "category": "Диваны",
+        "room": "Гостиная",
+        "x": 725,
+        "y": 342,
+        "width": 140,
+        "height": 60,
+        "rotation": 0,
+        "selectedColor": "Серый"
+      }
+    ],
+    "createdAt": "2026-10-12T08:35:08.608Z"
+  }
+]

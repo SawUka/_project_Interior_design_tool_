@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "title": "Диван Modern",
+    "description": "Современный трёхместный диван с мягкими подушками и лаконичным дизайном. Каркас из массива дерева, наполнитель — пенополиуретан высокой плотности.",
+    "price": 289990,
+    "category": "Диваны",
+    "room": "Гостиная",
+    "style": "Современный",
+    "thumbnail": "/images/furniture/sofa-modern-gray.jpg",
+    "images": ["/images/furniture/sofa-modern-gray.jpg"],
+    "rating": 4.8,
+    "reviews": 24,
+    "inStock": true,
+    "colors": [
+      { "name": "Серый", "hex": "#C8C8C8", "image": "/images/furniture/sofa-modern-gray.jpg" },
+      { "name": "Терракотовый", "hex": "#7A3B2E", "image": "/images/furniture/sofa-modern-brown.jpg" },
+      { "name": "Зелёный", "hex": "#4A6B5A", "image": "/images/furniture/sofa-modern-green.jpg" }
+    ],
+    "meta": { "material": "Ткань", "dimensions": { "width": 220, "height": 85, "depth": 95 } }
+  },
+  {
+    "id": 2,
+    "title": "Диван Classic",
+    "description": "Уютный двухместный диван с декоративными подушками на устойчивых ножках. Мягкая тканевая обивка и эргономичная спинка.",
+    "price": 245990,
+    "category": "Диваны",
+    "room": "Гостиная",
+    "style": "Современный",
+    "thumbnail": "/images/furniture/sofa-classic-gray.jpg",
+    "images": ["/images/furniture/sofa-classic-gray.jpg"],
+    "rating": 4.7,
+    "reviews": 18,
+    "inStock": true,
+    "colors": [
+      { "name": "Серый", "hex": "#7A8288", "image": "/images/furniture/sofa-classic-gray.jpg" },
+      { "name": "Бежевый", "hex": "#E8DFD0", "image": "/images/furniture/sofa-classic-beige.jpg" },
+      { "name": "Бордовый", "hex": "#7A1F2B", "image": "/images/furniture/sofa-classic-burgundy.jpg" }
+    ],
+    "meta": { "material": "Ткань", "dimensions": { "width": 200, "height": 85, "depth": 90 } }
+  },
+  {
+    "id": 3,
+    "title": "Диван Corner",
+    "description": "Просторный угловой диван для большой гостиной. Модульная конструкция позволяет менять конфигурацию.",
+    "price": 459990,
+    "category": "Диваны",
+    "room": "Гостиная",
+    "style": "Современный",
+    "thumbnail": "/images/furniture/sofa-corner-terracotta.jpg",
+    "images": ["/images/furniture/sofa-corner-terracotta.jpg"],
+    "rating": 4.9,
+    "reviews": 31,
+    "inStock": true,
+    "colors": [
+      { "name": "Терракотовый", "hex": "#7A3B2E", "image": "/images/furniture/sofa-corner-terracotta.jpg" },
+      { "name": "Зелёный", "hex": "#4A6B5A", "image": "/images/furniture/sofa-corner-green.jpg" },
+      { "name": "Серый", "hex": "#7A8288", "image": "/images/furniture/sofa-corner-gray.jpg" }
+    ],
+    "meta": { "material": "Велюр", "dimensions": { "width": 280, "height": 85, "depth": 180 } }
+  },
+  {
+    "id": 4,
+    "title": "Диван Retro",
+    "description": "Элегантный диван в ретро-стиле с классической пуговичной стяжкой и круглыми подлокотниками на деревянных ножках.",
+    "price": 385000,
+    "category": "Диваны",
+    "room": "Гостиная",
+    "style": "Ретро",
+    "thumbnail": "/images/furniture/sofa-retro-blue.jpg",
+    "images": ["/images/furniture/sofa-retro-blue.jpg"],
+    "rating": 4.8,
+    "reviews": 15,
+    "inStock": true,
+    "colors": [
+      { "name": "Голубой", "hex": "#8FA8C8", "image": "/images/furniture/sofa-retro-blue.jpg" },
+      { "name": "Белый", "hex": "#F5F5F5", "image": "/images/furniture/sofa-retro-white.jpg" },
+      { "name": "Бордовый", "hex": "#7A1F2B", "image": "/images/furniture/sofa-retro-burgundy.jpg" }
+    ],
+    "meta": { "material": "Ткань", "dimensions": { "width": 210, "height": 80, "depth": 90 } }
+  },
+  {
+    "id": 5,
+    "title": "Кровать Arc",
+    "description": "Двуспальная кровать с высоким арочным изголовьем. Создаёт ощущение уюта и защищённости.",
+    "price": 325000,
+    "category": "Кровати",
+    "room": "Спальня",
+    "style": "Современный",
+    "thumbnail": "/images/furniture/bed-arc-beige.jpg",
+    "images": ["/images/furniture/bed-arc-beige.jpg"],
+    "rating": 4.9,
+    "reviews": 42,
+    "inStock": true,
+    "colors": [
+      { "name": "Бежевый", "hex": "#E8DFD0", "image": "/images/furniture/bed-arc-beige.jpg" },
+      { "name": "Оливковый", "hex": "#6B7A55", "image": "/images/furniture/bed-arc-green.jpg" },
+      { "name": "Кремовый", "hex": "#FFFDD0", "image": "/images/furniture/bed-arc-cream.jpg" }
+    ],
+    "meta": { "material": "Ткань, Дерево", "dimensions": { "width": 180, "height": 120, "depth": 210 } }
+  },
+  {
+    "id": 6,
+    "title": "Кровать Rectangular",
+    "description": "Стильная прямоугольная кровать с мягким изголовьем. Строгие линии и максимальный комфорт.",
+    "price": 295000,
+    "category": "Кровати",
+    "room": "Спальня",
+    "style": "Минимализм",
+    "thumbnail": "/images/furniture/bed-rectangular-gray.jpg",
+    "images": ["/images/furniture/bed-rectangular-gray.jpg"],
+    "rating": 4.7,
+    "reviews": 28,
+    "inStock": true,
+    "colors": [
+      { "name": "Серый", "hex": "#7A8288", "image": "/images/furniture/bed-rectangular-gray.jpg" },
+      { "name": "Терракотовый", "hex": "#7A3B2E", "image": "/images/furniture/bed-rectangular-terracotta.jpg" },
+      { "name": "Белый", "hex": "#F5F5F5", "image": "/images/furniture/bed-rectangular-white.jpg" }
+    ],
+    "meta": { "material": "Ткань, Металл", "dimensions": { "width": 160, "height": 110, "depth": 210 } }
+  },
+  {
+    "id": 7,
+    "title": "Кровать Single",
+    "description": "Компактная односпальная кровать на изящных ножках. Идеальна для небольших спален или гостевых комнат.",
+    "price": 165000,
+    "category": "Кровати",
+    "room": "Спальня",
+    "style": "Скандинавский",
+    "thumbnail": "/images/furniture/bed-single-green.jpg",
+    "images": ["/images/furniture/bed-single-green.jpg"],
+    "rating": 4.6,
+    "reviews": 19,
+    "inStock": true,
+    "colors": [
+      { "name": "Оливковый", "hex": "#6B7A55", "image": "/images/furniture/bed-single-green.jpg" },
+      { "name": "Бежевый", "hex": "#E8DFD0", "image": "/images/furniture/bed-single-beige.jpg" },
+      { "name": "Серый", "hex": "#7A8288", "image": "/images/furniture/bed-single-gray.jpg" }
+    ],
+    "meta": { "material": "Ткань, Дерево", "dimensions": { "width": 90, "height": 90, "depth": 200 } }
+  },
+  {
+    "id": 8,
+    "title": "Кровать Kids",
+    "description": "Безопасная детская кровать с фигурным изголовьем в форме облака и выдвижным ящиком для белья на колёсиках.",
+    "price": 195000,
+    "category": "Кровати",
+    "room": "Спальня",
+    "style": "Современный",
+    "thumbnail": "/images/furniture/bed-kids-gray.jpg",
+    "images": ["/images/furniture/bed-kids-gray.jpg"],
+    "rating": 4.9,
+    "reviews": 35,
+    "inStock": true,
+    "colors": [
+      { "name": "Серый", "hex": "#7A8288", "image": "/images/furniture/bed-kids-gray.jpg" },
+      { "name": "Тёмно-синий", "hex": "#1A2B4C", "image": "/images/furniture/bed-kids-blue.jpg" },
+      { "name": "Пыльно-розовый", "hex": "#D4A5A5", "image": "/images/furniture/bed-kids-pink.jpg" }
+    ],
+    "meta": { "material": "Ткань, ДСП", "dimensions": { "width": 80, "height": 100, "depth": 160 } }
+  },
+  {
+    "id": 9,
+    "title": "Стол Minimal",
+    "description": "Минималистичный обеденный или рабочий стол на эстетичных скошенных ножках.",
+    "price": 89990,
+    "category": "Столы",
+    "room": "Кухня",
+    "style": "Скандинавский",
+    "thumbnail": "/images/furniture/table-minimal-white.jpg",
+    "images": ["/images/furniture/table-minimal-white.jpg"],
+    "rating": 4.5,
+    "reviews": 22,
+    "inStock": true,
+    "colors": [
+      { "name": "Белый", "hex": "#F5F5F5", "image": "/images/furniture/table-minimal-white.jpg" },
+      { "name": "Светлое дерево", "hex": "#D4C5B0", "image": "/images/furniture/table-minimal-wood.jpg" }
+    ],
+    "meta": { "material": "Дерево, МДФ", "dimensions": { "width": 120, "height": 75, "depth": 70 } }
+  },
+  {
+    "id": 10,
+    "title": "Стол Desk",
+    "description": "Функциональный письменный стол с двумя вместительными ящиками и открытой нишей.",
+    "price": 125000,
+    "category": "Столы",
+    "room": "Кабинет",
+    "style": "Лофт",
+    "thumbnail": "/images/furniture/desk-drawers-white.jpg",
+    "images": ["/images/furniture/desk-drawers-white.jpg"],
+    "rating": 4.7,
+    "reviews": 31,
+    "inStock": true,
+    "colors": [
+      { "name": "Белый", "hex": "#F5F5F5", "image": "/images/furniture/desk-drawers-white.jpg" },
+      { "name": "Графит", "hex": "#3A3A3A", "image": "/images/furniture/desk-drawers-gray.jpg" }
+    ],
+    "meta": { "material": "МДФ, Металл", "dimensions": { "width": 140, "height": 75, "depth": 60 } }
+  },
+  {
+    "id": 11,
+    "title": "Стол Compact",
+    "description": "Компактный стол с одним выдвижным ящиком. Отличное решение для небольших пространств.",
+    "price": 75000,
+    "category": "Столы",
+    "room": "Кабинет",
+    "style": "Скандинавский",
+    "thumbnail": "/images/furniture/desk-compact-green.jpg",
+    "images": ["/images/furniture/desk-compact-green.jpg"],
+    "rating": 4.4,
+    "reviews": 18,
+    "inStock": true,
+    "colors": [
+      { "name": "Оливковый", "hex": "#6B7A55", "image": "/images/furniture/desk-compact-green.jpg" },
+      { "name": "Чёрный", "hex": "#1A1A1A", "image": "/images/furniture/desk-compact-black.jpg" }
+    ],
+    "meta": { "material": "Дерево, Металл", "dimensions": { "width": 100, "height": 75, "depth": 50 } }
+  },
+  {
+    "id": 12,
+    "title": "Стул Windsor",
+    "description": "Классический стул со спинкой из вертикальных планок и эргономичным деревянным сиденьем.",
+    "price": 45000,
+    "category": "Стулья",
+    "room": "Кухня",
+    "style": "Скандинавский",
+    "thumbnail": "/images/furniture/chair-windsor-white.jpg",
+    "images": ["/images/furniture/chair-windsor-white.jpg"],
+    "rating": 4.6,
+    "reviews": 45,
+    "inStock": true,
+    "colors": [
+      { "name": "Белый", "hex": "#F5F5F5", "image": "/images/furniture/chair-windsor-white.jpg" },
+      { "name": "Шалфейный", "hex": "#8A9A8A", "image": "/images/furniture/chair-windsor-green.jpg" }
+    ],
+    "meta": { "material": "Дерево", "dimensions": { "width": 45, "height": 85, "depth": 50 } }
+  },
+  {
+    "id": 13,
+    "title": "Стул Modern",
+    "description": "Современный стул с цельной мягкой спинкой и сиденьем на устойчивых деревянных ножках.",
+    "price": 55000,
+    "category": "Стулья",
+    "room": "Кухня",
+    "style": "Современный",
+    "thumbnail": "/images/furniture/chair-modern-green.jpg",
+    "images": ["/images/furniture/chair-modern-green.jpg"],
+    "rating": 4.7,
+    "reviews": 29,
+    "inStock": true,
+    "colors": [
+      { "name": "Оливковый", "hex": "#6B7A55", "image": "/images/furniture/chair-modern-green.jpg" },
+      { "name": "Серый", "hex": "#7A8288", "image": "/images/furniture/chair-modern-gray.jpg" }
+    ],
+    "meta": { "material": "Ткань, Дерево", "dimensions": { "width": 50, "height": 80, "depth": 55 } }
+  },
+  {
+    "id": 14,
+    "title": "Шкаф Sliding",
+    "description": "Вместительный шкаф-купе с эстетичными рифлёными раздвижными дверями.",
+    "price": 285000,
+    "category": "Шкафы",
+    "room": "Спальня",
+    "style": "Минимализм",
+    "thumbnail": "/images/furniture/wardrobe-sliding-gray.jpg",
+    "images": ["/images/furniture/wardrobe-sliding-gray.jpg"],
+    "rating": 4.7,
+    "reviews": 21,
+    "inStock": true,
+    "colors": [
+      { "name": "Графит", "hex": "#3A3A3A", "image": "/images/furniture/wardrobe-sliding-gray.jpg" },
+      { "name": "Белый", "hex": "#F5F5F5", "image": "/images/furniture/wardrobe-sliding-white.jpg" }
+    ],
+    "meta": { "material": "ЛДСП", "dimensions": { "width": 180, "height": 220, "depth": 60 } }
+  },
+  {
+    "id": 15,
+    "title": "Шкаф Legs",
+    "description": "Стильный шкаф на высоких ножках с тремя распашными дверцами и нижними ящиками.",
+    "price": 245000,
+    "category": "Шкафы",
+    "room": "Спальня",
+    "style": "Скандинавский",
+    "thumbnail": "/images/furniture/wardrobe-legs-burgundy.jpg",
+    "images": ["/images/furniture/wardrobe-legs-burgundy.jpg"],
+    "rating": 4.6,
+    "reviews": 17,
+    "inStock": true,
+    "colors": [
+      { "name": "Бордовый", "hex": "#7A1F2B", "image": "/images/furniture/wardrobe-legs-burgundy.jpg" },
+      { "name": "Оливковый", "hex": "#6B7A55", "image": "/images/furniture/wardrobe-legs-green.jpg" },
+      { "name": "Серый", "hex": "#7A8288", "image": "/images/furniture/wardrobe-legs-gray.jpg" }
+    ],
+    "meta": { "material": "МДФ, Металл", "dimensions": { "width": 150, "height": 190, "depth": 50 } }
+  },
+  {
+    "id": 16,
+    "title": "Шкаф Tall",
+    "description": "Высокий трёхдверный шкаф на цоколе с длинными вертикальными ручками. Максимум места для хранения.",
+    "price": 315000,
+    "category": "Шкафы",
+    "room": "Спальня",
+    "style": "Современный",
+    "thumbnail": "/images/furniture/wardrobe-tall-white.jpg",
+    "images": ["/images/furniture/wardrobe-tall-white.jpg"],
+    "rating": 4.8,
+    "reviews": 24,
+    "inStock": true,
+    "colors": [
+      { "name": "Белый", "hex": "#F5F5F5", "image": "/images/furniture/wardrobe-tall-white.jpg" },
+      { "name": "Тауп", "hex": "#8B7D6B", "image": "/images/furniture/wardrobe-tall-taupe.jpg" }
+    ],
+    "meta": { "material": "ЛДСП", "dimensions": { "width": 180, "height": 240, "depth": 60 } }
+  },
+  {
+    "id": 17,
+    "title": "Комод 4-ящика",
+    "description": "Классический комод с четырьмя глубокими выдвижными ящиками и длинными горизонтальными ручками.",
+    "price": 135000,
+    "category": "Комоды",
+    "room": "Спальня",
+    "style": "Минимализм",
+    "thumbnail": "/images/furniture/dresser-4drawer-black.jpg",
+    "images": ["/images/furniture/dresser-4drawer-black.jpg"],
+    "rating": 4.5,
+    "reviews": 33,
+    "inStock": true,
+    "colors": [
+      { "name": "Чёрный", "hex": "#1A1A1A", "image": "/images/furniture/dresser-4drawer-black.jpg" },
+      { "name": "Белый", "hex": "#F5F5F5", "image": "/images/furniture/dresser-4drawer-white.jpg" },
+      { "name": "Светлое дерево", "hex": "#D4C5B0", "image": "/images/furniture/dresser-4drawer-oak.jpg" }
+    ],
+    "meta": { "material": "ЛДСП", "dimensions": { "width": 120, "height": 90, "depth": 45 } }
+  },
+  {
+    "id": 18,
+    "title": "Комод Sideboard",
+    "description": "Низкая тумба (сайдборд) с комбинацией распашных дверец и ящиков на металлическом каркасе.",
+    "price": 165000,
+    "category": "Комоды",
+    "room": "Гостиная",
+    "style": "Лофт",
+    "thumbnail": "/images/furniture/sideboard-slate.jpg",
+    "images": ["/images/furniture/sideboard-slate.jpg"],
+    "rating": 4.7,
+    "reviews": 19,
+    "inStock": true,
+    "colors": [
+      { "name": "Пыльно-голубой", "hex": "#8FA8C8", "image": "/images/furniture/sideboard-slate.jpg" },
+      { "name": "Кремовый", "hex": "#FFFDD0", "image": "/images/furniture/sideboard-cream.jpg" },
+      { "name": "Графит", "hex": "#3A3A3A", "image": "/images/furniture/sideboard-dark.jpg" }
+    ],
+    "meta": { "material": "МДФ, Металл", "dimensions": { "width": 160, "height": 80, "depth": 40 } }
+  },
+  {
+    "id": 19,
+    "title": "Люстра Cage",
+    "description": "Дизайнерская подвесная люстра с деревянными планками, создающая тёплое рассеянное освещение.",
+    "price": 65000,
+    "category": "Освещение",
+    "room": "Гостиная",
+    "style": "Скандинавский",
+    "thumbnail": "/images/furniture/lamp-pendant-green.jpg",
+    "images": ["/images/furniture/lamp-pendant-green.jpg"],
+    "rating": 4.8,
+    "reviews": 14,
+    "inStock": true,
+    "colors": [
+      { "name": "Зелёный + дерево", "hex": "#6B7A55", "image": "/images/furniture/lamp-pendant-green.jpg" }
+    ],
+    "meta": { "material": "Металл, Дерево", "dimensions": { "width": 40, "height": 30, "depth": 40 } }
+  },
+  {
+    "id": 20,
+    "title": "Торшер Double Spot",
+    "description": "Напольный торшер с двумя регулируемыми спотами на деревянной стойке.",
+    "price": 55000,
+    "category": "Освещение",
+    "room": "Гостиная",
+    "style": "Лофт",
+    "thumbnail": "/images/furniture/lamp-floor-double.jpg",
+    "images": ["/images/furniture/lamp-floor-double.jpg"],
+    "rating": 4.6,
+    "reviews": 27,
+    "inStock": true,
+    "colors": [
+      { "name": "Чёрный + дерево", "hex": "#1A1A1A", "image": "/images/furniture/lamp-floor-double.jpg" }
+    ],
+    "meta": { "material": "Металл, Дерево", "dimensions": { "width": 30, "height": 160, "depth": 30 } }
+  },
+  {
+    "id": 21,
+    "title": "Лампа настольная Ribbed",
+    "description": "Стильная настольная лампа с рифлёным абажуром. Идеальна для рабочего стола или прикроватной тумбы.",
+    "price": 35000,
+    "category": "Освещение",
+    "room": "Спальня",
+    "style": "Минимализм",
+    "thumbnail": "/images/furniture/lamp-table-ribbed.jpg",
+    "images": ["/images/furniture/lamp-table-ribbed.jpg"],
+    "rating": 4.7,
+    "reviews": 38,
+    "inStock": true,
+    "colors": [
+      { "name": "Серый + чёрный", "hex": "#7A8288", "image": "/images/furniture/lamp-table-ribbed.jpg" }
+    ],
+    "meta": { "material": "Стекло, Металл", "dimensions": { "width": 20, "height": 40, "depth": 20 } }
+  },
+  {
+    "id": 22,
+    "title": "Торшер Tripod",
+    "description": "Классический торшер на устойчивой треноге с тканевым абажуром.",
+    "price": 45000,
+    "category": "Освещение",
+    "room": "Гостиная",
+    "style": "Скандинавский",
+    "thumbnail": "/images/furniture/lamp-floor-tripod.jpg",
+    "images": ["/images/furniture/lamp-floor-tripod.jpg"],
+    "rating": 4.5,
+    "reviews": 21,
+    "inStock": true,
+    "colors": [
+      { "name": "Чёрный", "hex": "#1A1A1A", "image": "/images/furniture/lamp-floor-tripod.jpg" }
+    ],
+    "meta": { "material": "Металл, Ткань", "dimensions": { "width": 50, "height": 150, "depth": 50 } }
+  }
+]

@@ -1,0 +1,69 @@
+:root {
+  --bg-primary: #f8f9fa;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #F4F5F3;
+  --text-primary: #1a1a1a;
+  --text-secondary: #4b5563;
+  --text-muted: #6b7280;
+  --border-color: #E1E5E0;
+  --accent: #244D35;
+  --accent-hover: #1a3a28;
+  --accent-light: rgba(36, 77, 53, 0.08);
+  --danger: #dc2626;
+  --shadow: rgba(0, 0, 0, 0.08);
+  --shadow-lg: rgba(0, 0, 0, 0.12);
+  --card-bg: #ffffff;
+  --input-bg: #ffffff;
+  --hover-bg: rgba(36, 77, 53, 0.03);
+  --overlay: rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="dark"] {
+  --bg-primary: #0f1115;
+  --bg-secondary: #161920;
+  --bg-tertiary: #1c2029;
+  --text-primary: #e8e6e3;
+  --text-secondary: #a8a5a0;
+  --text-muted: #6b6860;
+  --border-color: #252a35;
+  --accent: #8fbc8f;
+  --accent-hover: #7da87d;
+  --accent-light: rgba(143, 188, 143, 0.08);
+  --danger: #d4736e;
+  --shadow: rgba(0, 0, 0, 0.4);
+  --shadow-lg: rgba(0, 0, 0, 0.6);
+  --card-bg: #161920;
+  --input-bg: #1c2029;
+  --hover-bg: rgba(143, 188, 143, 0.06);
+  --overlay: rgba(0, 0, 0, 0.7);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  transition: background 0.4s ease, color 0.4s ease;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
